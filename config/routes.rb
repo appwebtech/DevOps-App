@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+
   resources :teams
 	as :user do 
 		put '/user/confirmation' => 'confirmations#update', :via => :patch, :as => :update_user_confirmation
@@ -9,5 +10,8 @@ Rails.application.routes.draw do
   	registrations: 'registrations',
   	confirmations: 'confirmations'
   }
+
+  resources :projects
+
 	root 'home#index'
 end
