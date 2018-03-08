@@ -14,6 +14,7 @@
  *= require_self
  */
 
+/* Mostly from http://tachyons.io/docs/ */
 
  :root {
   --spacing-none: 0;
@@ -25,6 +26,8 @@
   --spacing-extra-extra-large: 8rem;
   --spacing-extra-extra-extra-large: 16rem;
 }
+
+@import "bulma";
 
 @import "froala_editor.min";
 @import "froala_style.min";
@@ -202,5 +205,3 @@
 	margin-bottom: 0;
 }
 
-@import "teams";
-@import "projects";
