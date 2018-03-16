@@ -12,7 +12,7 @@
 .formstatic {
   position: absolute;
   left: 50px;
-  @media screen and (max-width: 1450px) {
+  @media screen and (max-width: 1000px) {
     position: static;
   }
 }
@@ -20,7 +20,7 @@
 .formfixed {
   position: absolute;
   left: 50px;
-  @media screen and (max-width: 1450px) {
+  @media screen and (max-width: 1000px) {
     position: static;
   }
 }
@@ -29,7 +29,7 @@
   right: 50px;
   padding-left: 1em;
   width: 500px;
-  @media screen and (max-width: 1450px) {
+  @media screen and (max-width: 1000px) {
     padding: 0;
     width: 100%;
     margin: 1em 0;
@@ -40,7 +40,7 @@
   right: 50px;
   padding: 40px;
   box-shadow: 0 5px 10px 0 rgba(black, .2);
-  @media screen and (max-width: 1450px) {
+  @media screen and (max-width: 1000px) {
     position: static;
     right: 0;
     margin: 1em 0;

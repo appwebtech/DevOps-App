@@ -42,6 +42,11 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
+group :production do 
+  gem 'pg', '~> 0.20'
+  gem 'rails_12factor'
+end
+
 # My gems start here
 gem 'bulma-rails', '~> 0.6.1'
 gem 'simple_form', '~> 3.5'
@@ -50,6 +55,5 @@ gem 'gravatar_image_tag', '~> 1.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem "wysiwyg-rails"
 gem 'public_activity', '~> 1.5'
-gem 'pg'
 gem "figaro"
 
