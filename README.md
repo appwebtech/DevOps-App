@@ -1,6 +1,5 @@
 <div align="center">
 <h1><a href="https://appwebtech-devops.herokuapp.com/">DevOps App</a></h1> 
-<h2>DevOps App</h2>
   
 
 <div align="center">
@@ -13,7 +12,6 @@
 </div>
 
 <h3>Table of Contents</h3>
-<details>
 - [Introduction to](#introduction)
 - [What the app should do](#what-the-app-should-do)
 - [Technologies](#technologies)
@@ -38,7 +36,6 @@
 - [Developer](#developer)
 - [Contacts](#contacts)
 - [License](#license)
-</details>
 
 # Introduction
 
