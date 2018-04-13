@@ -12,16 +12,16 @@
 </div>
 
 <h3>Table of Contents</h3>
+
 - [Introduction to](#introduction)
 - [What the app should do](#what-the-app-should-do)
 - [Technologies](#technologies)
   - [Javascript](#javascript)
   - [Figaro](#figaro)
     - [Why Figaro exists](#why-figaro-exists)
-    - [How Figaro works](#how-figaro-works)
-  - [Bulma rails](#bulma-rails)
-    - [Installation](#installation)
-    - [Usage](#usage)
+      - [How Figaro works](#how-figaro-works)
+      - [Installation](#installation)
+      - [Usage](#usage)
   - [Devise](#devise)
   - [Simple Form](#simple-form)
     - [Installation](#installation)
@@ -30,12 +30,12 @@
     - [Gravatar Image Tag Plugin](#gravatar-image-tag-plugin)
     - [Install as a Ruby Gem](#install-as-a-ruby-gem)
   - [jQuery-rails](#jquery-rails)
-- [Public Activity](#public-activity)
-- [Rails Froala WYSIWYG HTML Editor](#rails-froala-wysiwyg-html-editor)
-- [Public Activity ](#public-activity )
+  - [Public Activity](#public-activity)
+  - [Rails Froala WYSIWYG HTML Editor](#rails-froala-wysiwyg-html-editor)
 - [Developer](#developer)
 - [Contacts](#contacts)
 - [License](#license)
+
 
 # Introduction
 
