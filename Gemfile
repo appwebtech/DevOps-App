@@ -50,7 +50,7 @@ end
 # My gems start here
 gem 'bulma-rails', '~> 0.6.1'
 gem 'simple_form', '~> 3.5'
-gem 'devise', '~> 4.4'
+gem 'devise', '~> 4.7'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem "wysiwyg-rails"
